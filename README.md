@@ -3,14 +3,6 @@ Impariamo le basi di utilizzo di git, [github](www.github.com) e scopriamo come 
 
 Per seguire questo laboratorio è consigliato l'utilizzo di [vscode](https://code.visualstudio.com/)
 
-## Installazione di git
-Scarica ed installa [git](https://git-scm.com/).
-
-Configura git lanciando sul tuo terminale i comandi:
-```
-git config --global user.name "NOME COGNOME"
-git config --global user.email "TUA MAIL"
-```
 ## Materiale aggiuntivo
 
 ## Fonti utili
@@ -25,3 +17,4 @@ Usando il tastierino numerico premi **ALT** e digita il numero per usare il `bac
 
 **ALT** + 96 = `  
 **ALT** + 126 = ~
+

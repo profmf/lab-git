@@ -11,3 +11,4 @@
 ## 5C info
 - [Giovanni Mazzitelli](https://github.com/AOTREVAI)
 - [Maria Angelica Moldovan](https://github.com/mariaangelicamoldovan)
+- [Giulia Cuciureanu](https://github.com/giuliacuciureanu)

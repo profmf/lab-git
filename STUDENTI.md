@@ -8,3 +8,4 @@
 - [Diego Pillot](https://github.com/ayoitsdie)
 - [Luigi Tardito](https://github.com/BaccelloDiSoia)
 - [Alessandro Demo](https://github.com/alexDem0)
+- [Simone Valsania](https://github.com/pericoLosco/lab-git.git)

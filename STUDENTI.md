@@ -1,5 +1,4 @@
-# Studenti
-- [Mattia Folcarelli](https://github.com/profmf)
+## 5D info
 - [Arpit Chowdhury](https://github.com/Fairesss)
 - [Monica Ren](https://github.com/monniiccaa)
 - [Andrea Oneglia](https://github.com/one104)
@@ -8,4 +7,7 @@
 - [Diego Pillot](https://github.com/ayoitsdie)
 - [Luigi Tardito](https://github.com/BaccelloDiSoia)
 - [Alessandro Demo](https://github.com/alexDem0)
+
+## 5C info
+- [Giovanni Mazzitelli](https://github.com/AOTREVAI)
 - [Maria Angelica Moldovan](https://github.com/mariaangelicamoldovan)

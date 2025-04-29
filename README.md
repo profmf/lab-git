@@ -1,4 +1,4 @@
-# LABGIT  
+# LAB GIT  
 Impariamo le basi di utilizzo di git, [github](www.github.com) e scopriamo come contribuire al mondo open source.
 
 Per seguire questo laboratorio è consigliato l'utilizzo di [vscode](https://code.visualstudio.com/)

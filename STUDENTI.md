@@ -7,8 +7,9 @@
 - [Diego Pillot](https://github.com/ayoitsdie)
 - [Luigi Tardito](https://github.com/BaccelloDiSoia)
 - [Alessandro Demo](https://github.com/alexDem0)
+- [Simone Valsania](https://github.com/pericoLosco/lab-git.git)
+- [Giulia Cuciureanu](https://github.com/giuliacuciureanu)
+- [Maria Angelica Moldovan](https://github.com/mariaangelicamoldovan)
 
 ## 5C info
 - [Giovanni Mazzitelli](https://github.com/AOTREVAI)
-- [Maria Angelica Moldovan](https://github.com/mariaangelicamoldovan)
-- [Giulia Cuciureanu](https://github.com/giuliacuciureanu)

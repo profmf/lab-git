@@ -8,3 +8,4 @@
 - [Diego Pillot](https://github.com/ayoitsdie)
 - [Luigi Tardito](https://github.com/BaccelloDiSoia)
 - [Alessandro Demo](https://github.com/alexDem0)
+- [Giulia Cuciureanu](https://github.com/giuliacuciureanu)
